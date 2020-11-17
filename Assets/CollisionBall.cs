@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Hudson Schumaker
 public class CollisionBall : MonoBehaviour {
 
 	// Use this for initialization
